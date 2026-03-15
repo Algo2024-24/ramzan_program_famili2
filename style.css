@@ -1,0 +1,30 @@
+body {
+    font-family: sans-serif;
+}
+header{
+    background-color:rgb(0, 166, 255) ;
+}
+header p{
+    color:black;
+}
+h1{
+    color: orangered;
+}
+main{
+    text-align: center;
+}
+main img{
+    height: 208px;
+}
+
+.fim{
+    text-align: left;
+}
+footer{
+
+background-color:rgb(0, 166, 255) ;
+border: 2px solid rgb(0, 166, 255);
+}
+footer p{
+    background-color: aliceblue;
+}
